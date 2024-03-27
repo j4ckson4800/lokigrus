@@ -3,7 +3,7 @@ package lokigrus
 import (
 	"fmt"
 
-	"github.com/ic2hrmk/promtail"
+	"github.com/j4ckson4800/promtail"
 	"github.com/sirupsen/logrus"
 )
 
